@@ -1,0 +1,16 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+body {
+    background: #1a1a1a;
+}
+
+#time {
+    font-size: 128px;
+    line-height: 100vh;
+    color: #fff;
+    text-align: center;
+}
